@@ -36,7 +36,7 @@ Ce tableau de bord interactif Power BI permet d’analyser les ventes et les pro
 ## 👤 Auteur
 
 - **Nom** : *ilkay sonmez*
-- **LinkedIn** : [linkedin.com/in/ton-profil]((https://www.linkedin.com/in/eyup-ilkay-sonmez-8193aa1a9/))
+- **LinkedIn** :[ [linkedin.com/in/ton-profil]((https://www.linkedin.com/in/eyup-ilkay-sonmez-8193aa1a9/))](https://www.linkedin.com/in/eyup-ilkay-sonmez-8193aa1a9/)
 - **Date** : Juillet 2024
 
 ---

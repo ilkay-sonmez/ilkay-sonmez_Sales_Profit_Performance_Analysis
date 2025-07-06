@@ -8,7 +8,6 @@ Ce tableau de bord interactif Power BI permet d’analyser les ventes et les pro
 ## 🎯 Objectifs du projet
 
 - Suivre les ventes et les marges bénéficiaires
-- Identifier les produits ou clients les plus rentables
 - Comparer les performances entre régions ou segments
 - Visualiser les tendances mensuelles ou annuelles
 
